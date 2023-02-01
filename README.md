@@ -13,3 +13,5 @@ Some lines of code that allow to print a table that contains all bytes in a rang
 ### aesGiraudFA
 Perfoms a DFA (differential Fault analysis) attack on AES 128 bits using 3 faults
 
+### SimpleEdImage
+CLI for image modification via Python
